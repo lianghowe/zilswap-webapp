@@ -34,6 +34,17 @@ const routes: RouteConfig[] = [{
   }]
 },
 {
+  path: '/nftbears',
+  component: MainLayout,
+  routes: [{
+    path: '/nftbears/introduction',
+    exact: true,
+    component: lazy(() => import('./views/nftbears/Introduction'))
+  }, {
+    component: () => <Redirect to="/nftbears/introduction"></Redirect>
+  }]
+},
+{
   path: '/',
   component: MainLayout,
   routes: [{

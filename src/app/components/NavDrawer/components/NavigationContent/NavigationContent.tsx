@@ -23,6 +23,7 @@ const InternalRouteMap: any = {
   "/pools/transactions": "/pools",
   "/zilo/current": "/zilo",
   "/zilo/past": "/zilo",
+  "nftbears/introduction": "/nftbears",
   "/swap": "/swap",
   "/pool": "/swap",
   "/bridge": "/bridge",
