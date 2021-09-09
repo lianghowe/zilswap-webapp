@@ -7,7 +7,7 @@
 ## Skynet portal URL
 
 ```
-https://3007o5e0aithl6ohn12e5fcur28263gm5gicjiu4plvu7ton2rlas60.siasky.net/
+https://3006s2h0dfiou2aa28b5i9t36uqru66ml3e5t30k5v89ctcid1qfjmg.siasky.net/
 ```
 
 This repository contains the UI code for the Zilswap dApp.
